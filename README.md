@@ -20,11 +20,11 @@ journey
       Coffee: 9: 
       Do work: 7: 
       Lunch: 5: 
-      Coffee: 3: 
-      Do work: 1:
+      Coffee: 9: 
+      Do work: 7:
     section In Home
-      Workout: 5: 
-      Play/Read/Movie Time: 3: 
+      Workout: 3: 
+      Play/Read/Movie Time: 9: 
 ```
 
 <p align="center">

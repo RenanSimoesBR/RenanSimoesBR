@@ -17,14 +17,14 @@ In addition to my line of research, I'm interested in **artificial intelligence*
 journey
     title Routine on weekdays
     section In work
-      Coffee:
-      Do work:
-      Lunch:
-      Coffee:
-      Do work:
+      Coffee: 9:
+      Do work: 7: 
+      Lunch: 5:
+      Coffee: 9:
+      Do work: 7:
     section In Home
-      Workout:
-      Play/Read/Movie Time:
+      Workout: 3:
+      Play/Read/Movie Time: 10:
 ```
 
 <p align="center">

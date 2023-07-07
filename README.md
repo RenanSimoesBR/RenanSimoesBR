@@ -2,7 +2,7 @@
 
 ### Renan Simões, at your service.
 
-PhD student at @CancerEpigenomicsLab at School of Pharmaceutical Sciences of Ribeirão Preto (FCFRP-USP)
+PhD student at @CancerEpigenomicsLab at School of Pharmaceutical Sciences of Ribeirão Preto (FCFRP-USP) <br>
 Pharmacist-Biochemist and Master in Science: Bioagents and Biotechnology Applied to Pharmacy by FCFRP
 
 Currently conducting research in the area of cancer using bioinformatics methodologies. I've experience in: <br>

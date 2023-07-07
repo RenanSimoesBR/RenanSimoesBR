@@ -13,20 +13,6 @@ Currently conducting research in the area of cancer using bioinformatics methodo
 
 In addition to my line of research, I'm interested in **artificial intelligence**, application of **machine learning** and prediction models in academic research and **astronomy** (passionate about black holes)
 
-```mermaid
-journey
-    title Routine on weekdays
-    section In work
-      Coffee: 7
-      Do work: 5
-      Lunch: 3
-      Coffee: 7
-      Do work: 5
-    section In Home
-      Workout: 3
-      Play/Read/Movie Time: 7
-```
-
 <p align="center">
 <i class="devicon-r-plain colored"></i>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"

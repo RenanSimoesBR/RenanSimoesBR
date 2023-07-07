@@ -24,7 +24,7 @@ journey
       Do work: 7:
     section In Home
       Workout: 3:
-      Play/Read/Movie Time: 10:
+      Play/Read/Movie Time: 9:
 ```
 
 <p align="center">

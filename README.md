@@ -11,7 +11,7 @@ Currently conducting research in the area of cancer using bioinformatics methodo
 3. *Cancer stem cells (CSC and GSC);*<br>
 4. *Machine-Learning and Prediction Models* 
 
-In addition to my line of research, I'm interested in **artificial intelligence**, application of **machine learning** and prediction models in academic research and **astonomy** (passionate about black holes)
+In addition to my line of research, I'm interested in **artificial intelligence**, application of **machine learning** and prediction models in academic research and **astronomy** (passionate about black holes)
 
 <p align="center">
 <i class="devicon-r-plain colored"></i>

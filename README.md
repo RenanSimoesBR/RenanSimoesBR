@@ -6,10 +6,10 @@ PhD student at @CancerEpigenomicsLab at School of Pharmaceutical Sciences of Rib
 Pharmacist-Biochemist and Master in Science: Bioagents and Biotechnology Applied to Pharmacy by FCFRP
 
 Currently conducting research in the area of cancer using bioinformatics methodologies. I've experience in: <br>
-*Brain tumors (gliomas);*<br>
-*Single-cell RNA sequencing (scRNA-seq);*<br>
-*Cancer stem cells (CSC and GSC);*<br>
-*Multi-omics analysis;* 
+1. *Brain tumors (gliomas);*<br>
+2. *Single-cell RNA sequencing (scRNA-seq);*<br>
+3. *Cancer stem cells (CSC and GSC);*<br>
+4. *Multi-omics analysis;* 
 
 In addition to my line of research, I'm interested in **artificial intelligence**, application of **machine learning** and prediction models in academic research and **astonomy** (passionate about black holes)
 

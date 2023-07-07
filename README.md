@@ -1,5 +1,5 @@
 ### Hello scientists, bioinformatics et al.
-
+<i class="devicon-r-plain colored"></i>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-plain.svg" 
   width="100" 
      height="100"/>

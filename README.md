@@ -5,11 +5,11 @@
 PhD student at @CancerEpigenomicsLab at School of Pharmaceutical Sciences of Ribeirão Preto (FCFRP-USP)
 Pharmacist-Biochemist and Master in Science: Bioagents and Biotechnology Applied to Pharmacy by FCFRP
 
-Currently conducting research in the area of cancer using bioinformatics methodologies. I've experience in:
-**Brain tumors (gliomas);*
-**Single-cell RNA sequencing (scRNA-seq);*
-**Cancer stem cells (CSC and GSC);*
-**Multi-omics analysis;*
+Currently conducting research in the area of cancer using bioinformatics methodologies. I've experience in: <br>
+*Brain tumors (gliomas);*<br>
+*Single-cell RNA sequencing (scRNA-seq);*<br>
+*Cancer stem cells (CSC and GSC);*<br>
+*Multi-omics analysis;* 
 
 In addition to my line of research, I'm interested in **artificial intelligence**, application of **machine learning** and prediction models in academic research and **astonomy** (passionate about black holes)
 

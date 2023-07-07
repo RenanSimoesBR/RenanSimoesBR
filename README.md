@@ -13,7 +13,7 @@ Currently conducting research in the area of cancer using bioinformatics methodo
 
 In addition to my line of research, I'm interested in **artificial intelligence**, application of **machine learning** and prediction models in academic research and **astronomy** (passionate about black holes)
 
-  journey
+journey
     title Routine on weekdays
     section In work
       Coffee: 9: 

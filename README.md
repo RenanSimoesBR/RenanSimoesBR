@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello scientists, bioinformatics et al.
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-plain.svg" />
 
 <!--
 **RenanSimoesBR/RenanSimoesBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

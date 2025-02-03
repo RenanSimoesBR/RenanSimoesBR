@@ -1,6 +1,5 @@
 # Hello scientists, bioinformatics et al.
 
-### Renan Simões, at your service.
 
 PhD student at @CancerEpigenomicsLab at School of Pharmaceutical Sciences of Ribeirão Preto (FCFRP-USP) <br>
 Pharmacist-Biochemist and Master in Science: Bioagents and Biotechnology Applied to Pharmacy by FCFRP
